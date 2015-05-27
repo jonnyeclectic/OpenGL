@@ -10,6 +10,8 @@
   * 	Users can reverse the direction of orbit by pressing the minus key ( - )
   * 	Pacman will play itself with 10 moves (duration variable) and then reverse those 10 moves to complete choreography
   * 	Users can press number 0 to toggle on/off automatic Pacman play.
+  *
+  *This .gif was developed in OpenGL and features an interactive Pac-man icon for a small graphics and animation project.
 */
 
 #ifdef __APPLE__
